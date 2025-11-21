@@ -1,0 +1,9 @@
+
+0003542|Cessna 206|5200590|Avioneta
+2346412|BMW M4 Compt|2500290|Carro
+6266543|Tahoe RS|3250400|Camioneta
+656375|Maverick r6|1700359|Todo Terreno
+6434346|Mercedes Freighlinder|5240800|Camiones
+782543|Sexnat ll|23800090|Barco
+6456326|Bacchmann|5490800|Tren
+9566854|Cameron Ballons|900650700|Globo Aerostatico
